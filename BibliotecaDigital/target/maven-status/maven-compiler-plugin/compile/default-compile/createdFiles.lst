@@ -1,0 +1,5 @@
+com\facul\biblioteca\service\LivroService.class
+com\facul\biblioteca\BibliotecaApplication.class
+com\facul\biblioteca\model\Livro.class
+com\facul\biblioteca\repository\LivroRepository.class
+com\facul\biblioteca\controller\LivroController.class
