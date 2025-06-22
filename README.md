@@ -36,9 +36,9 @@ Sistema de gerenciamento de livros com operações CRUD (Create, Read, Update, D
 ---
 
 ## 🗂 Estrutura do Projeto
-case-biblioteca-digital/
-├── BibliotecaDigital/ ← Projeto Java (Spring Boot)
-├── BibliotecaFront/ ← index.html (interface web)
+- case-biblioteca-digital/
+- ├── BibliotecaDigital/ ← Projeto Java (Spring Boot)
+- ├── BibliotecaFront/ ← index.html (interface web)
 
 ---
 
