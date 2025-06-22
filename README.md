@@ -59,7 +59,7 @@ mvn spring-boot:run
 
 A API será iniciada em:
 ```bash
-(http://localhost:8080/livros
+http://localhost:8080/livros
 ```
 
 ## 🌐 Rodar o Front-end
