@@ -49,9 +49,8 @@ Abra o terminal e execute:
 ```bash
 cd BibliotecaDigital
 mvn spring-boot:run
-```bash
 
-gfdgad
+
 
 
 🧑‍💻 Autor
