@@ -62,12 +62,12 @@ A API será iniciada em:
 (http://localhost:8080/livros
 ```
 
-**🌐 Rodar o Front-end
+## 🌐 Rodar o Front-end
 01. Acesse a pasta BibliotecaFront
 02. Dê dois cliques no arquivo index.html
 03. O sistema abrirá no navegador e consumirá a API automaticamente
 
-🔁 Endpoints da API
+## 🔁 Endpoints da API
 | MÉTODO   | ENDPOINT     | DESCRIÇÃO             |
 |----------|--------------|-----------------------|
 | GET      | /livros      | Lista todos os livros |
