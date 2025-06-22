@@ -5,10 +5,10 @@ Sistema de gerenciamento de livros com operações CRUD (Create, Read, Update, D
 ---
 
 ## 🧑‍💻 Autor
-Igor Gomes
-📘 Projeto acadêmico – UNIFECAF
-🎓 Curso: Análise e Desenvolvimento de Sistemas
-📅 Ano: 2025
+- Igor Gomes
+- 📘 Projeto acadêmico – UNIFECAF
+- 🎓 Curso: Análise e Desenvolvimento de Sistemas
+- 📅 Ano: 2025
 
 ## 🚀 Funcionalidades
 
