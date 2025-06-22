@@ -4,6 +4,12 @@ Sistema de gerenciamento de livros com operações CRUD (Create, Read, Update, D
 
 ---
 
+## 🧑‍💻 Autor
+Igor Gomes
+📘 Projeto acadêmico – UNIFECAF
+🎓 Curso: Análise e Desenvolvimento de Sistemas
+📅 Ano: 2025
+
 ## 🚀 Funcionalidades
 
 - ✅ Cadastrar livros
@@ -49,13 +55,13 @@ Abra o terminal e execute:
 ```bash
 cd BibliotecaDigital
 mvn spring-boot:run
+```
+
+A API será iniciada em:
+```bash
+[cd BibliotecaDigital
+mvn spring-boot:run](http://localhost:8080/livros)
+```
 
 
-
-
-🧑‍💻 Autor
-Igor Ribeiro Gomes
-📘 Projeto acadêmico – UNIFECAF
-🎓 Curso: Análise e Desenvolvimento de Sistemas
-📅 Ano: 2025
 
