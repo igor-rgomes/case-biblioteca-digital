@@ -59,9 +59,18 @@ mvn spring-boot:run
 
 A API será iniciada em:
 ```bash
-[cd BibliotecaDigital
-mvn spring-boot:run](http://localhost:8080/livros)
+(http://localhost:8080/livros
 ```
 
+**🌐 Rodar o Front-end
+01. Acesse a pasta BibliotecaFront
+02. Dê dois cliques no arquivo index.html
+03. O sistema abrirá no navegador e consumirá a API automaticamente
 
+🔁 Endpoints da API
+| MÉTODO   | ENDPOINT     | DESCRIÇÃO             |
+|----------|--------------|-----------------------|
+| GET      | /livros      | Lista todos os livros |
+| POST     | /livros      | Cadastra novo livro   |
+| DELETE   | /livros{id}  | Remove livro por ID   |
 
